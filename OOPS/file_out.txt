@@ -1,0 +1,101 @@
+
+Enter 0 to Exit 
+ 1. to Add Record 
+ 2. to Display Data 
+ 3. to Delete Data 
+ 4. to Modify Data : 1
+
+Enter How Many Records : 2
+
+ :: RECORD 1 ::
+
+Enter Name : Sagar
+
+Enter Roll No : 2007
+
+Enter class : 2
+
+Enter Marks (out of 100) 
+Enter Marks for subject 1 : 85
+Enter Marks for subject 2 : 95
+Enter Marks for subject 3 : 85
+**************************************************
+
+ :: RECORD 2 ::
+
+Enter Name : Akshat
+
+Enter Roll No : 2037
+
+Enter class : 2
+
+Enter Marks (out of 100) 
+Enter Marks for subject 1 : 75
+Enter Marks for subject 2 : 85
+Enter Marks for subject 3 : 95
+**************************************************
+
+
+Enter 0 to Exit 
+ 1. to Add Record 
+ 2. to Display Data 
+ 3. to Delete Data 
+ 4. to Modify Data : 2
+
+ ************************** DATABASE *************************** 
+
+                                        |        MARKS        |
+Name	       Roll_No Class Percentage Physics Maths Chemistry 
+
+Sagar          2007    2     88.3       85      95    85        
+Akshat         2037    2     85         75      85    95        
+
+
+ *************************************************************** 
+
+
+Enter 0 to Exit 
+ 1. to Add Record 
+ 2. to Display Data 
+ 3. to Delete Data 
+ 4. to Modify Data : 3
+
+ ************************* DELETE RECORD ************************* 
+
+ Enter Roll No Of Record To Be Deleted : 2037
+
+ ** RECORD DELETED **
+
+ *************************************************************** 
+
+
+Enter 0 to Exit 
+ 1. to Add Record 
+ 2. to Display Data 
+ 3. to Delete Data 
+ 4. to Modify Data : 4
+
+ ************************* MODIFY RECORD ************************* 
+
+ Enter Roll No Of Record To Be Modified : 2007
+
+Enter Name : SAGAR
+
+Enter Roll No : 2007
+
+Enter class : 3
+
+Enter Marks (out of 100) 
+Enter Marks for subject 1 : 90
+Enter Marks for subject 2 : 92
+Enter Marks for subject 3 : 94
+
+
+ *************************************************************** 
+
+
+Enter 0 to Exit 
+ 1. to Add Record 
+ 2. to Display Data 
+ 3. to Delete Data 
+ 4. to Modify Data : 0

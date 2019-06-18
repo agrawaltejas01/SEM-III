@@ -1,0 +1,61 @@
+CREATE A LINKED LIST TO GET STARTED
+Length of linked is?
+5
+1 2 3 4 5
+Created linked list is
+
+1 2 3 4 5 
+----------MENU----------
+	1.ADD
+	2.DELETE
+	3.DISPLAY REVERSE
+	4.REVERSE
+	5.EXIT
+
+ENTER CHOICE : 1
+Enter position you want to add (0=begining -1=end) 
+0 0
+0 1 2 3 4 5 
+----------MENU----------
+	1.ADD
+	2.DELETE
+	3.DISPLAY REVERSE
+	4.REVERSE
+	5.EXIT
+
+ENTER CHOICE : 2
+Enter position you want to delete (0=begining -1=end) 
+2
+0 1 3 4 5 
+----------MENU----------
+	1.ADD
+	2.DELETE
+	3.DISPLAY REVERSE
+	4.REVERSE
+	5.EXIT
+
+ENTER CHOICE : 3
+
+REVERSED LIST IS 
+	
+5 4 3 1 0 
+----------MENU----------
+	1.ADD
+	2.DELETE
+	3.DISPLAY REVERSE
+	4.REVERSE
+	5.EXIT
+
+ENTER CHOICE : 4
+
+NEW LIST IS 
+	
+5 4 3 1 0 
+----------MENU----------
+	1.ADD
+	2.DELETE
+	3.DISPLAY REVERSE
+	4.REVERSE
+	5.EXIT
+
+ENTER CHOICE : 5

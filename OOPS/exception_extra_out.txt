@@ -1,0 +1,16 @@
+Enter Model Number : 28888
+Enter price : 150000000
+Enter Screen Size In Inches : 200
+
+ERROR : EXCEPTION CAUGHT 
+Model No : 0
+Screen Size : 0
+Price : 0
+
+Enter Model Number : 8000
+Enter price : 1000
+Enter Screen Size In Inches : 85
+
+Model No : 8000
+Screen Size : 85"
+Price : 1000

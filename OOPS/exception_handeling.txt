@@ -1,0 +1,20 @@
+
+1.Perform Division
+2.Exit
+1
+
+Enter the DIVIDEND and the DIVISOR
+10 12
+The quotient is : 0.833333
+
+1.Perform Division
+2.Exit
+1
+
+Enter the DIVIDEND and the DIVISOR
+10 0
+Dividing by zero
+
+1.Perform Division
+2.Exit
+2

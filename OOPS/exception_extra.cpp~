@@ -1,0 +1,80 @@
+/* Roll no : 2002
+   Name : Tejas Agrawal
+   Class : SE-10
+   Batch : E-10
+   EXTRA ASSIGNMENT 4
+*/
+
+#include <iostream>
+#include <string.h>
+#define MAX 50
+using namespace std;
+
+class monitor {
+	
+	private :
+			float prc;
+			float len;
+			int mod_no;
+			int error;
+	
+	public :
+			monitor () {prc=0.0; len=0.0; mod_no=0;}
+			void getdata ();
+			void display_data ();
+			void error_msg ();
+};
+
+void monitor::getdata() 
+{
+	
+	cout << "\nEnter Model Number : ";
+	cin >> mod_no;
+	
+	cout << "Enter price : ";
+	cin >> prc;
+	
+	cout << "Enter Screen Size In Inches : ";
+	cin >> len;
+	
+	if ( (mod_no > 9999) || (len<12 || len>150) || (prc<0 || prc>50000) )
+		throw (error);
+	
+}
+
+void monitor::display_data() 
+{
+	
+	cout << "\nModel No : " << mod_no;
+	cout << "\nScreen Size : " << len << "\"";
+	cout << "\nPrice : " << prc ;
+	
+}
+
+void monitor::error_msg() 
+{
+	
+	cout << "\nERROR : EXCEPTION CAUGHT ";
+	cout << "\nModel No : " << 0;
+	cout << "\nScreen Size : " << 0.0;
+	cout << "\nPrice : " << 0.0;
+}
+
+
+int main () 
+{
+	
+	monitor m;
+	
+	try
+	 {
+		m.getdata ();
+		m.display_data ();
+	}
+	catch (int)
+	 {
+		m.error_msg();
+	}
+	
+	return 0;
+}

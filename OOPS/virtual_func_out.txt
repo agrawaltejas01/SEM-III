@@ -1,0 +1,42 @@
+-------Menu---------
+
+	1.Rectangle
+	2.Triangle
+	3.Exit
+Enter Choice : 1
+
+
+
+--------RECTANGLE ........
+
+
+Enter Length : 2 
+
+
+Enter Height : 3
+
+area of rectangle is : 6
+-------Menu---------
+
+	1.Rectangle
+	2.Triangle
+	3.Exit
+Enter Choice : 2
+
+
+
+-----------TRIANGLE .........
+
+
+Enter Base of rectangle :  5
+
+Enter Height of Rectangle : 6
+
+area of triangle is :15
+-------Menu---------
+
+	1.Rectangle
+	2.Triangle
+	3.Exit
+Enter Choice : 3
+

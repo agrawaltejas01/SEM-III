@@ -1,0 +1,145 @@
+
+****** CREATING POLYNOMIAL ******
+
+Enter Polynomial A :
+Enter The Degree Of Polunomial : 4
+
+Enter Coefficient For Power 4 : 5
+Enter Coefficient For Power 3 : -1
+Enter Coefficient For Power 2 : 2
+Enter Coefficient For Power 1 : 7.2
+Enter Coefficient For Power 0 : 10
+
+Polynomial A =
+Power Coefficient
+4      5.000
+3      -1.000
+2      2.000
+1      7.200
+0      10.000
+
++5.00 X^4 -1.00 X^3 +2.00 X^2 +7.20 X^1 +10.00 X^0
+
+
+Enter Polynomial 2 :
+Enter The Degree Of Polunomial : 3
+
+Enter Coefficient For Power 3 : -2.4
+Enter Coefficient For Power 2 : 5.1
+Enter Coefficient For Power 1 : 2.2
+Enter Coefficient For Power 0 : -40
+
+Polynomial 2 =
+Power Coefficient
+3      -2.400
+2      5.100
+1      2.200
+0      -40.000
+
+-2.40 X^3 +5.10 X^2 +2.20 X^1 -40.00 X^0
+
+********************************
+
+
+Enter 0 To Exit
+Enter 1 To Update Polynomial A
+Enter 2 To Update Polynomial B
+Enter 3 To Display Polynomial A and B
+Enter 4 To Evaluate Polynomial
+Enter 5 To Add Polynomial A and B (A+B)
+Enter 6 To Multiply Polynomial
+Enter Your Choice : 4
+
+**********EVALUATING POLYNOMIAL**********
+
+Enter '1' To Evaluate Polynomial A or '2' To Evaluate Polynomial B : 1
+
+Enter The Value of X : 4.2
+Value Of Polynomial At X = 4.200 is = 1557.280
+
+*****************************************
+
+
+Enter 0 To Exit
+Enter 1 To Update Polynomial A
+Enter 2 To Update Polynomial B
+Enter 3 To Display Polynomial A and B
+Enter 4 To Evaluate Polynomial
+Enter 5 To Add Polynomial A and B (A+B)
+Enter 6 To Multiply Polynomial
+Enter Your Choice : 4
+
+**********EVALUATING POLYNOMIAL**********
+
+Enter '1' To Evaluate Polynomial A or '2' To Evaluate Polynomial B : 2
+
+Enter The Value of X : -2.3
+Value Of Polynomial At X = -2.300 is = 11.120
+
+*****************************************
+
+
+Enter 0 To Exit
+Enter 1 To Update Polynomial A
+Enter 2 To Update Polynomial B
+Enter 3 To Display Polynomial A and B
+Enter 4 To Evaluate Polynomial
+Enter 5 To Add Polynomial A and B (A+B)
+Enter 6 To Multiply Polynomial
+Enter Your Choice : 5
+
+**********ADDING POLYNOMIAL**********
+
+F(A) + F(B) =
+Power Coefficient
+4      5.000
+3      -3.400
+2      7.100
+1      9.400
+0      -30.000
+
++5.00 X^4 -3.40 X^3 +7.10 X^2 +9.40 X^1 -30.00 X^0
+
+*************************************
+
+
+Enter 0 To Exit
+Enter 1 To Update Polynomial A
+Enter 2 To Update Polynomial B
+Enter 3 To Display Polynomial A and B
+Enter 4 To Evaluate Polynomial
+Enter 5 To Add Polynomial A and B (A+B)
+Enter 6 To Multiply Polynomial
+Enter Your Choice : 6
+
+**********MULTIPLY POLYNOMIAL**********
+
+F(A) * F(B) =
+Power Coefficient
+7      -12.000
+6      27.900
+5      1.100
+4      -209.280
+3      57.120
+2      -13.160
+1      -266.000
+0      -400.000
+
+-12.00 X^7 +27.90 X^6 +1.10 X^5 -209.28 X^4 +57.12 X^3 -13.16 X^2 -266.00 X^1 -4
+00.00 X^0
+
+*************************************
+
+
+Enter 0 To Exit
+Enter 1 To Update Polynomial A
+Enter 2 To Update Polynomial B
+Enter 3 To Display Polynomial A and B
+Enter 4 To Evaluate Polynomial
+Enter 5 To Add Polynomial A and B (A+B)
+Enter 6 To Multiply Polynomial
+Enter Your Choice : 0
+
+--------------------------------
+Process exited after 69.51 seconds with return value 0
+Press any key to continue . . .

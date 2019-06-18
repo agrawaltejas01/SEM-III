@@ -1,0 +1,113 @@
+Enter 0 to exit 
+Enter 1 to Enter A String 
+Enter 2 to Print String 
+Enter 3 to find length of string 
+Enter 4 to Check Weather String Is Palindrome Or Not 
+Enter 5 to Compare Strings 
+Enter 6 to copy string 
+Enter 7 to reverse string 
+Enter 8 to to check for subsring 
+Enter 9 to clear screen 
+Enter your choice : 2
+
+STRING = radar
+
+Enter 0 to exit 
+Enter 1 to Enter A String 
+Enter 2 to Print String 
+Enter 3 to find length of string 
+Enter 4 to Check Weather String Is Palindrome Or Not 
+Enter 5 to Compare Strings 
+Enter 6 to copy string 
+Enter 7 to reverse string 
+Enter 8 to to check for subsring 
+Enter 9 to clear screen 
+Enter your choice : 3
+
+Length Of String = 5
+
+Enter 0 to exit 
+Enter 1 to Enter A String 
+Enter 2 to Print String 
+Enter 3 to find length of string 
+Enter 4 to Check Weather String Is Palindrome Or Not 
+Enter 5 to Compare Strings 
+Enter 6 to copy string 
+Enter 7 to reverse string 
+Enter 8 to to check for subsring 
+Enter 9 to clear screen 
+Enter your choice : 4
+
+String is palindrome 
+
+Enter 0 to exit 
+Enter 1 to Enter A String 
+Enter 2 to Print String 
+Enter 3 to find length of string 
+Enter 4 to Check Weather String Is Palindrome Or Not 
+Enter 5 to Compare Strings 
+Enter 6 to copy string 
+Enter 7 to reverse string 
+Enter 8 to to check for subsring 
+Enter 9 to clear screen 
+Enter your choice : 5
+
+Enter The String To be Compared With : radar
+
+Strings are equal 
+
+Enter 0 to exit 
+Enter 1 to Enter A String 
+Enter 2 to Print String 
+Enter 3 to find length of string 
+Enter 4 to Check Weather String Is Palindrome Or Not 
+Enter 5 to Compare Strings 
+Enter 6 to copy string 
+Enter 7 to reverse string 
+Enter 8 to to check for subsring 
+Enter 9 to clear screen 
+Enter your choice : 6
+
+Original String = radar, Copied String = radar
+
+Enter 0 to exit 
+Enter 1 to Enter A String 
+Enter 2 to Print String 
+Enter 3 to find length of string 
+Enter 4 to Check Weather String Is Palindrome Or Not 
+Enter 5 to Compare Strings 
+Enter 6 to copy string 
+Enter 7 to reverse string 
+Enter 8 to to check for subsring 
+Enter 9 to clear screen 
+Enter your choice : 7
+
+ REVERSE STRING = radar
+
+Enter 0 to exit 
+Enter 1 to Enter A String 
+Enter 2 to Print String 
+Enter 3 to find length of string 
+Enter 4 to Check Weather String Is Palindrome Or Not 
+Enter 5 to Compare Strings 
+Enter 6 to copy string 
+Enter 7 to reverse string 
+Enter 8 to to check for subsring 
+Enter 9 to clear screen 
+Enter your choice : 8
+
+Enter Substring : dae
+
+String Is not a substring 
+
+Enter 0 to exit 
+Enter 1 to Enter A String 
+Enter 2 to Print String 
+Enter 3 to find length of string 
+Enter 4 to Check Weather String Is Palindrome Or Not 
+Enter 5 to Compare Strings 
+Enter 6 to copy string 
+Enter 7 to reverse string 
+Enter 8 to to check for subsring 
+Enter 9 to clear screen 
+Enter your choice : 0

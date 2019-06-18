@@ -1,0 +1,109 @@
+/* Roll no : 2002
+   Name : Tejas Agrawal
+   Class : SE-10
+   Batch : E-10
+   EXTRA ASSIGNMENT 3
+*/
+#include <iostream>
+#include <string.h>
+#define MAX 50
+using namespace std;
+
+template <class T>
+void bubble_sort (T arr[], int n) 
+{
+	
+	T temp;
+	int flag;
+	
+	for (int i=0 ; i<n-1 ; i++) 
+	{
+		flag = 0;
+		for (int j=0 ; j<n-1-i ; j++) 
+		{
+			
+			if (arr[j] > arr[j+1])
+			 {
+				
+				temp = arr[j];
+				arr[j] = arr[j+1];
+				arr[j+1] = temp;
+				flag++;
+			}
+		}
+		
+		if (flag == 0) break;
+	}
+	
+}
+
+template <class T>
+void display (T arr[], int n)
+ {
+	
+	for (int i=0 ; i<n ; i++) cout << arr[i] << " ";
+	cout << endl;
+}
+ 
+
+int main () 
+{
+	
+	int i,n,arr[20];
+	float b[20];
+	char c[20];
+		
+	
+	cout << "\nEnter No Of Integer Values : ";
+	cin >> n;
+	
+	cout << "Enter Elements : ";
+	
+	for (i=0;i<n;i++)
+	 {
+		
+		cin >> arr[i];
+	}
+	
+	cout << "\n Integer List : ";
+	display (arr, n);
+	bubble_sort (arr, n);
+	
+	cout << "\n Sorted Integer List : ";
+	display (arr, n);
+	
+	cout << "\n**************************************************\n";
+	
+	
+	cout << "\nEnter No Of Float Values : ";
+	cin >> n;
+	
+	cout << "Enter Elements : ";
+	for (i=0;i<n;i++) 
+	{
+		cin >> b[i];
+	}
+	
+	cout << "\n Float List : ";
+	display (b, n);
+	bubble_sort (b, n);
+	cout << "\n Sorted Float List : ";
+	display (b, n);	
+	
+	cout << "\n**************************************************\n";
+	
+	cout << "\nEnter No Of Character Values : ";
+	cin >> n;
+	for (i=0;i<n;i++)
+	 {
+		cout << "Enter " << i+1 << "th Character/Element : ";
+		cin >> c[i];
+	}
+	
+	cout << "\n Character List : ";
+	display (c, n);
+	bubble_sort (c, n);
+	cout << "\n Sorted Character List : ";
+	display (c, n);
+	return 0;
+}

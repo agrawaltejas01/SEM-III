@@ -1,0 +1,112 @@
+
+-------------Menu---------------
+	1.Enter matrices
+	2.Display in Sparse form
+	3.Add
+	4.Simple transpose
+	5.Fast Transpose
+	6.Exit
+Enter your choice : 1
+
+First Matrix 
+Enter row and column
+Value of row is : 3
+
+Value of column is : 3
+
+Enter elements
+
+!!!!!!!!('0' for invalid element)!!!!!!!!!!!!!
+1 0 0
+0 1 0
+0 0 1
+Matrix Enterd
+
+Second Matrix 
+Enter row and column
+Value of row is : 3
+
+Value of column is : 3
+
+Enter elements
+
+!!!!!!!!('0' for invalid element)!!!!!!!!!!!!!
+2 0 0
+0 2 0
+0 0 2
+Matrix Enterd
+-------------Menu---------------
+	1.Enter matrices
+	2.Display in Sparse form
+	3.Add
+	4.Simple transpose
+	5.Fast Transpose
+	6.Exit
+Enter your choice : 2
+First array is 
+3 3 3 
+0 0 1 
+1 1 1 
+2 2 1 
+Second array is 
+3 3 3 
+0 0 2 
+1 1 2 
+2 2 2 
+-------------Menu---------------
+	1.Enter matrices
+	2.Display in Sparse form
+	3.Add
+	4.Simple transpose
+	5.Fast Transpose
+	6.Exit
+Enter your choice : 3
+Addition of matrix is 
+3 3 3 
+0 0 3 
+1 1 3 
+2 2 3 
+-------------Menu---------------
+	1.Enter matrices
+	2.Display in Sparse form
+	3.Add
+	4.Simple transpose
+	5.Fast Transpose
+	6.Exit
+Enter your choice : 4
+Simple Transpose of first matrix
+3 3 3 
+0 0 1 
+1 1 1 
+2 2 1 
+Simple Transpose of second matrix
+3 3 3 
+0 0 2 
+1 1 2 
+2 2 2 
+-------------Menu---------------
+	1.Enter matrices
+	2.Display in Sparse form
+	3.Add
+	4.Simple transpose
+	5.Fast Transpose
+	6.Exit
+Enter your choice : 5
+Fast Transpose of first matrix
+3 3 3 
+0 0 1 
+1 1 1 
+2 2 1 
+Fast Transpose of second matrix
+3 3 3 
+0 0 2 
+1 1 2 
+2 2 2 
+-------------Menu---------------
+	1.Enter matrices
+	2.Display in Sparse form
+	3.Add
+	4.Simple transpose
+	5.Fast Transpose
+	6.Exit
+Enter your choice : 6

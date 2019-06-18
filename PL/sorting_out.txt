@@ -1,0 +1,134 @@
+admins@PC:~/Coding/pl$ ./a.out
+Menu
+	1.Enter Data
+	2.Bubble Sort
+	3.Selection sort
+	4.Binary search With Recursion
+	5.Binary search
+	6.Number of passes
+	7.Change Input
+	8.Exit
+
+	Enter your choice : 1
+Enter number of records you want to add : 3
+
+Student 1
+
+Enter Roll no : 2009
+
+Enter Name : olnd    
+
+Enter Percentage : 95 
+
+Student 2
+
+Enter Roll no : 2006
+
+Enter Name : jps
+
+Enter Percentage : 93
+
+Student 3
+
+Enter Roll no : 2007
+
+Enter Name : opfv
+
+Enter Percentage : 91
+
+Menu
+	1.Enter Data
+	2.Bubble Sort
+	3.Selection sort
+	4.Binary search With Recursion
+	5.Binary search
+	6.Number of passes
+	7.Change Input
+	8.Exit
+
+	Enter your choice : 2
+----------------------------------------------------------------------------
+ ROLL 	      NAME 	PERCENT
+-----------------------------------------------------------------------------
+ 2006 	       jps 	93.000000
+ 2007 	      opfv 	91.000000
+ 2009 	      olnd 	95.000000
+
+Menu
+	1.Enter Data
+	2.Bubble Sort
+	3.Selection sort
+	4.Binary search With Recursion
+	5.Binary search
+	6.Number of passes
+	7.Change Input
+	8.Exit
+
+	Enter your choice : 4
+Enter roll number you want to search : 2006
+
+------------------------------------------------------------------------
+ ROLL 	      NAME 	PERCENT
+-------------------------------------------------------------------------
+ 2006 	       jps 	93.000000
+Menu
+	1.Enter Data
+	2.Bubble Sort
+	3.Selection sort
+	4.Binary search With Recursion
+	5.Binary search
+	6.Number of passes
+	7.Change Input
+	8.Exit
+
+	Enter your choice : 5
+Enter roll number you want to search : 2009
+
+-----------------------------------------------------------------------------
+ ROLL 	      NAME 	PERCENT
+------------------------------------------------------------------------------
+ 2009 	      olnd 	95.000000
+Menu
+	1.Enter Data
+	2.Bubble Sort
+	3.Selection sort
+	4.Binary search With Recursion
+	5.Binary search
+	6.Number of passes
+	7.Change Input
+	8.Exit
+
+	Enter your choice : 3
+----------------------------------------------------------------------------
+ ROLL 	      NAME 	PERCENT
+-----------------------------------------------------------------------------
+ 2006 	       jps 	93.000000
+ 2009 	      olnd 	95.000000
+ 2007 	      opfv 	91.000000
+
+Menu
+	1.Enter Data
+	2.Bubble Sort
+	3.Selection sort
+	4.Binary search With Recursion
+	5.Binary search
+	6.Number of passes
+	7.Change Input
+	8.Exit
+
+	Enter your choice : 6
+Number of passes in bubble sort are : 0
+
+Number of passes in Selection sort are : 3
+
+Menu
+	1.Enter Data
+	2.Bubble Sort
+	3.Selection sort
+	4.Binary search With Recursion
+	5.Binary search
+	6.Number of passes
+	7.Change Input
+	8.Exit
+
+	Enter your choice : 8

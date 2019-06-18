@@ -1,0 +1,131 @@
+---------------------Menu-------------------
+
+	1.Master class 
+	2.Insert 
+	3.Search 
+	4.Edit 
+	5.Display 
+	6.Delete 
+	7.Exit
+
+Your Choice is : 1
+
+Enter number of records you want to enter : 1
+
+Enter Your Name : a
+
+Enter your Date Of Birth : 26/9/1998
+
+Enter your blood group : o+ 
+
+
+Enter Your Height : 6.10
+
+Enter Your Weight: 85
+
+
+Enter Your Policy Number : 651654
+
+Enter Your Phone number : 651654
+
+Enter Your Address (Line seperated by ',') : ahbsjvhb
+
+
+Enter Your Telephone Number : 651684
+
+Enter Your Driving License number : 55      
+
+
+---------------------Menu-------------------
+
+	1.Master class 
+	2.Insert 
+	3.Search 
+	4.Edit 
+	5.Display 
+	6.Delete 
+	7.Exit
+
+Your Choice is : 3
+
+Enter Liscense no. you want to search : 55
+
+Found
+
+-------------------------------------------------------------------
+
+                Name        DOB 	Blood Group     Height     Weight Policy Number        Phone              Address    Telephone 	   License
+-------------------------------------------------------------------
+
+                   a	  26/9/1998    o+ 6.100000 	85.000000     651654       651654             ahbsjvhb       651684         55
+
+---------------------Menu-------------------
+
+	1.Master class 
+	2.Insert 
+	3.Search 
+	4.Edit 
+	5.Display 
+	6.Delete 
+	7.Exit
+
+Your Choice is : 4
+
+Enter Liscense no. you want to search : 55
+
+Found
+
+Enter Your Name : b
+
+Enter your Date Of Birth : 4/8/1998
+
+Enter your blood group : o-
+
+
+Enter Your Height : 6.11
+
+Enter Your Weight: 80
+
+
+Enter Your Policy Number : 531651
+
+Enter Your Phone number : 651684321
+
+Enter Your Address (Line seperated by ',') : ldjfvijdf
+
+
+Enter Your Telephone Number : 651651684321
+
+Enter Your Driving License number : 16841321
+
+
+---------------------Menu-------------------
+
+	1.Master class 
+	2.Insert 
+	3.Search 
+	4.Edit 
+	5.Display 
+	6.Delete 
+	7.Exit
+
+Your Choice is : 5
+
+-----------------------------------------------------------------------------------------------------
+
+                Name        DOB 	Blood Group     Height     Weight Policy Number        Phone              Address    Telephone 	   License
+-----------------------------------------------------------------------------------------------------
+
+                   b	   4/8/1998    o- 6.110000 	80.000000     531651    651684321            ldjfvijdf 651651684321i�   16841321
+
+---------------------Menu-------------------
+
+	1.Master class 
+	2.Insert 
+	3.Search 
+	4.Edit 
+	5.Display 
+	6.Delete 
+	7.Exit
+
+Your Choice is : 7

@@ -1,0 +1,16 @@
+Enter Model Number : 25874
+Enter price : 500
+Enter Screen Size In Inches : 10
+
+ERROR : EXCEPTION CAUGHT 
+Model No : 0
+Screen Size : 0
+Price : 0
+
+Enter Model Number : 9998
+Enter price : 10
+Enter Screen Size In Inches : 120
+
+Model No : 9998
+Screen Size : 120"
+Price : 10

@@ -1,0 +1,48 @@
+----------Personal Data-----------
+
+Enter Name : Tejas       
+
+
+Enter Gender : M
+
+
+Enter date of birth : 26/08/1998
+
+
+----------Acadmic Data-----------
+
+Enter Percentage : 88
+
+
+Enter College Name : PICT
+
+
+Enter Stream of Education : IT
+
+
+----------Professional Data-----------
+
+Enter Years of experience : 5
+
+
+Enter Company Name : XYZ
+
+
+Enter Salary : 10000
+
+
+----------Personal Data-----------
+
+Name : Tejas
+Gender : M
+dob : 26/08/1998
+----------Professional Data-----------
+
+Years of experience : 5
+Firm Name: XYZ
+Salary : 10000
+----------Acadmic Data-----------
+
+Percentage : 88
+College : PICT
+Stream of Education : IT

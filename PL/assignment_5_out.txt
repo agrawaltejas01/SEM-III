@@ -1,0 +1,149 @@
+Menu
+Enter
+1 to create  new file
+2 to open existing file
+3 to add data
+4 to display data
+5 to search data
+6 to modify data
+7 to delete data
+8 to exit
+1
+Enter name of file in which you want to store datatest.txt
+File opened successfully
+
+Menu
+Enter
+1 to create  new file
+2 to open existing file
+3 to add data
+4 to display data
+5 to search data
+6 to modify data
+7 to delete data
+8 to exit
+2
+Enter name of file in which you want to store datatest.txt
+File opened successfully
+
+Menu
+Enter
+1 to create  new file
+2 to open existing file
+3 to add data
+4 to display data
+5 to search data
+6 to modify data
+7 to delete data
+8 to exit
+3
+Enter no of entries you want to enter3
+Enter Namea
+enter phone no9423146714
+Enter day of birth26/8/1998
+Enter month8
+Enter year1998
+Enter marks5
+Enter marks5
+Enter marks5
+Enter marks5
+Enter marks5
+Branch
+Enter
+1 for IT
+2 for Comp
+3 for E&TC1
+Enter Nameb
+enter phone no9422062412
+Enter day of birth3
+Enter month8
+Enter year1994
+Enter marks6
+Enter marks6
+Enter marks6
+Enter marks6
+Enter marks6
+Branch
+Enter
+1 for IT
+2 for Comp
+3 for E&TC2
+Enter Namec
+enter phone no8888888888
+Enter day of birth4
+Enter month5
+Enter year1992
+Enter marks7 
+Enter marks7
+Enter marks7
+Enter marks7
+Enter marks7
+Branch
+Enter
+1 for IT
+2 for Comp
+3 for E&TC3
+
+Menu
+Enter
+1 to create  new file
+2 to open existing file
+3 to add data
+4 to display data
+5 to search data
+6 to modify data
+7 to delete data
+8 to exit
+4
+134129		a		26/-8-1998		5 5 5 5 5	5.000000IT		9423146714
+134130		b		3-8-1994		6 6 6 6 6	6.000000Comp		9422062412
+134131		c		4-5-1992		7 7 7 7 7	7.000000E&TC		8888888888
+
+Menu
+Enter
+1 to create  new file
+2 to open existing file
+3 to add data
+4 to display data
+5 to search data
+6 to modify data
+7 to delete data
+8 to exit
+5
+Search using
+1 rollno
+2 name
+3 phone number1
+enter rollno134129
+Record Found
+134129		a		26/-8-1998		5 5 5 5 5	5.000000		IT		9423146714
+
+Menu
+Enter
+1 to create  new file
+2 to open existing file
+3 to add data
+4 to display data
+5 to search data
+6 to modify data
+7 to delete data
+8 to exit
+7
+Enter nameof temporary file134129
+Enter roll no of student whose record you want to delete134129
+Record Found
+0
+0
+record deleted successfully
+
+Menu
+Enter
+1 to create  new file
+2 to open existing file
+3 to add data
+4 to display data
+5 to search data
+6 to modify data
+7 to delete data
+8 to exit
+8

@@ -1,0 +1,29 @@
+Enter No Of Integer Values : 5
+Enter Elements : 5 4 3 2 1
+
+ Integer List : 5 4 3 2 1 
+
+ Sorted Integer List : 1 2 3 4 5 
+
+**************************************************
+
+Enter No Of Float Values : 8
+Enter Elements : 1 6 4 8 7 2 4 3
+
+ Float List : 1 6 4 8 7 2 4 3 
+
+ Sorted Float List : 1 2 3 4 4 6 7 8 
+
+**************************************************
+
+Enter No Of Character Values : 6
+Enter 1th Character/Element : e
+Enter 2th Character/Element : f 
+Enter 3th Character/Element : o
+Enter 4th Character/Element : i
+Enter 5th Character/Element : a
+Enter 6th Character/Element : a
+
+ Character List : e f o i a a 
+
+ Sorted Character List : a a e f i o

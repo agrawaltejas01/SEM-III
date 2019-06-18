@@ -1,0 +1,62 @@
+Enter string
+abcde
+*************** LINKED LIST CREATED ******************
+
+Give string was : abcde
+----------------MENU--------------
+
+	1.INSERT
+	2.DELETE
+	3.DISPLAY
+	4.DISPLAY REVERSE
+	5.RE-ENTER
+	6.EXIT
+----------------------------------
+
+Enter your choice : 1
+INSERT
+Enter pos and val (0==beg -1==end)
+3
+z
+**********UPDATED LIST IS*************
+	 abczde
+----------------MENU--------------
+
+	1.INSERT
+	2.DELETE
+	3.DISPLAY
+	4.DISPLAY REVERSE
+	5.RE-ENTER
+	6.EXIT
+----------------------------------
+
+Enter your choice : 2
+Delete
+Enter value you want to delete
+z
+**********UPDATED LIST IS*************
+	 abcde
+
+----------------MENU--------------
+
+	1.INSERT
+	2.DELETE
+	3.DISPLAY
+	4.DISPLAY REVERSE
+	5.RE-ENTER
+	6.EXIT
+----------------------------------
+
+Enter your choice : 4
+LIST REVERDED IS : edcba
+----------------MENU--------------
+
+	1.INSERT
+	2.DELETE
+	3.DISPLAY
+	4.DISPLAY REVERSE
+	5.RE-ENTER
+	6.EXIT
+----------------------------------
+
+Enter your choice : 6

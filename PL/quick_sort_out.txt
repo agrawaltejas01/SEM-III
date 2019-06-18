@@ -1,0 +1,65 @@
+           9 	         a 	  500
+          10 	         b 	  650
+           8 	         q 	  100
+
+
+
+
+------------------------ MENU ------------------------
+
+	1.Enter
+	2.Display
+	3.Display pivot position
+	4.Display no of passes
+	5.exit
+Your choice is : 2
+
+------------------------------------------------------------------------
+PHONE NUMBER 	      NAME 	PERCENT
+-------------------------------------------------------------------------
+           8 	         a 	  500
+           9 	         b 	  650
+          10 	         q 	  100
+
+
+
+
+------------------------ MENU ------------------------
+
+	1.Enter
+	2.Display
+	3.Display pivot position
+	4.Display no of passes
+	5.exit
+Your choice is : 3
+
+           8 	         a 	  500
+           9 	         b 	  650
+
+
+           9 	         b 	  650
+
+
+
+
+------------------------ MENU ------------------------
+
+	1.Enter
+	2.Display
+	3.Display pivot position
+	4.Display no of passes
+	5.exit
+Your choice is : 4
+
+Number of passes done is : 2
+
+
+
+------------------------ MENU ------------------------
+
+	1.Enter
+	2.Display
+	3.Display pivot position
+	4.Display no of passes
+	5.exit
+Your choice is : 5

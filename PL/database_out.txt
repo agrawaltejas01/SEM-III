@@ -1,0 +1,157 @@
+admins@PC:~/Coding/pl$ ./a.out
+Menu
+	1.Add
+	2.Display database
+	3.Search
+	4.Modify
+	5.Delete
+	6.exit
+1
+Enter number of records you want to insert
+5
+Enter name
+a
+Enter department
+IT
+Enter phone number
+9423146714
+Enter date of birth in dd/mm/yyyy format
+2/07/1997
+Enter marks of subject 1: 5
+Enter marks of subject 2: 5
+Enter marks of subject 3: 5
+Enter marks of subject 4: 5
+Enter marks of subject 5: 5
+Enter name
+b
+Enter department
+Comp
+Enter phone number
+8754961230
+Enter date of birth in dd/mm/yyyy format
+9/11/1998
+Enter marks of subject 1: 10
+Enter marks of subject 2: 15
+Enter marks of subject 3: 85
+Enter marks of subject 4: 75
+Enter marks of subject 5: 96
+Enter name
+c
+Enter department
+EnTC
+Enter phone number
+1234567890
+Enter date of birth in dd/mm/yyyy format
+9/9/1999
+Enter marks of subject 1: 78
+Enter marks of subject 2: 86
+Enter marks of subject 3: 85
+Enter marks of subject 4: 94
+Enter marks of subject 5: 26
+Enter name
+d
+Enter department
+IT
+Enter phone number
+7896231450
+Enter date of birth in dd/mm/yyyy format
+9/9/1996
+Enter marks of subject 1: 78
+Enter marks of subject 2: 45
+Enter marks of subject 3: 95
+Enter marks of subject 4: 91
+Enter marks of subject 5: 100
+Enter name
+e
+Enter department
+IT
+Enter phone number
+7651248304
+Enter date of birth in dd/mm/yyyy format
+9/9/1997
+Enter marks of subject 1: 85
+Enter marks of subject 2: 79
+Enter marks of subject 3: 62
+Enter marks of subject 4: 85
+Enter marks of subject 5: 98 
+Menu
+	1.Add
+	2.Display database
+	3.Search
+	4.Modify
+	5.Delete
+	6.exit
+2
+      NAME 	ROLL NO.  DEPT 	       PHONE 	     DOB 	AVG
+          a 	 2001 	   IT 	  9423146714 	 2/ 7/1997 	25.000000
+          b 	 2002 	 Comp 	  8754961230 	 9/11/1998 	281.000000
+          c 	 2003 	 EnTC 	  1234567890 	 9/ 9/1999 	369.000000
+          d 	 2004 	   IT 	  7896231450 	 9/ 9/1996 	409.000000
+          e 	 2005 	   IT 	  7651248304 	 9/ 9/1997 	409.000000
+ Menu
+	1.Add
+	2.Display database
+	3.Search
+	4.Modify
+	5.Delete
+	6.exit
+3
+Enter roll number to be searched
+2003
+Found
+         c 	 2003 	 EnTC 	  1234567890 	 9/ 9/1999 	369.000000
+ Menu
+	1.Add
+	2.Display database
+	3.Search
+	4.Modify
+	5.Delete
+	6.exit
+4
+Enter roll number of student of which you want to modify
+2003
+Enter name
+q
+Enter department
+Comp
+Enter phone number
+9423146716
+Enter date of birth in dd/mm/yyyy format
+9/9/1997
+Enter marks of subject 1: 98
+Enter marks of subject 2: 98
+Enter marks of subject 3: 87
+Enter marks of subject 4: 95
+Enter marks of subject 5: 18
+Menu
+	1.Add
+	2.Display database
+	3.Search
+	4.Modify
+	5.Delete
+	6.exit
+5
+Enter roll number of student of which you want to delete
+2005
+Deleted
+Menu
+	1.Add
+	2.Display database
+	3.Search
+	4.Modify
+	5.Delete
+	6.exit
+2
+      NAME 	ROLL NO.  DEPT 	       PHONE 	     DOB 	AVG
+          a 	 2001 	   IT 	  9423146714 	 2/ 7/1997 	25.000000
+          b 	 2002 	 Comp 	  8754961230 	 9/11/1998 	281.000000
+          q 	 2003 	 Comp 	  9423146716 	 9/ 9/1997 	396.000000
+          d 	 2004 	   IT 	  7896231450 	 9/ 9/1996 	409.000000
+ Menu
+	1.Add
+	2.Display database
+	3.Search
+	4.Modify
+	5.Delete
+	6.exit
+6
